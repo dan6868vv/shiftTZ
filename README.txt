@@ -1,5 +1,5 @@
 1. java version 16.0.2
-2. Проект я билдит в intelliJ IDEA. Build -> Build Artifact
+2. Проект я билдтл в intelliJ IDEA. Build -> Build Artifact
 3. Собранный в jar файл проект лежит в той же папаке, что и README
 Для запуска программы следует исполнить команду 
 java -jar <путь к jar файлу> <набор параметров>
