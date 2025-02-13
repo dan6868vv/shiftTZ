@@ -1,11 +1,8 @@
 1. java version 16.0.2
-2. jar файл находится: shift-main\out\artifacts\shift_main_jar
+
 Для запуска программы следует исполнить команду 
-
 java -jar <путь к jar файлу> <набор параметров>
-
 Пример: java -jar shift-main.jar -input=D:\shift\shift-main\out\artifacts\shift_main_jar\notes3.txt --path=D:\out.txt --output=file --sort=name --order=desk
-
 	Набор параметров включает:
 --input или -input =<путь к файлу со входными данными формата .txt> (Обязательный)
 --output или -0 =<формат вывода (в консоль или в файл)> Может примимать значения: console/file. По умолчанию:console
