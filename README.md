@@ -1,6 +1,6 @@
 # shiftTZ
 1. java version 16.0.2
-2. Проект я билдиk в intelliJ IDEA. Build -> Build Artifact
+2. Проект я билдил в intelliJ IDEA. Build -> Build Artifact
 3. Собранный в jar файл проект лежит в той же папаке, что и README
 4. Для запуска программы следует исполнить команду: 
  java -jar <путь к jar файлу> <набор параметров>
